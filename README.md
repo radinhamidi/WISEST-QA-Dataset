@@ -4,6 +4,7 @@
 pip install wisest-data-fetcher==0.1
 
 ## Usage
+```
 import wisest_data_fetcher.fetcher as fetcher
 import json
 
@@ -27,3 +28,4 @@ with open('WQA_DPR.json', 'w') as f:
 # Save the IDX dataset to a file
 with open('WQA_IDX.json', 'w') as f:
     json.dump(idx_dataset, f, indent=4)
+```
