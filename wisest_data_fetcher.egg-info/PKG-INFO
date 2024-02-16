@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: wisest-data-fetcher
+Version: 0.1
+Summary: A package for fetching WISEST datasets from the internet
+Home-page: https://github.com/radinhamidi/WISEST-QA-Dataset
+Author: Kevin Sun
+Author-email: kevinuoft.sun@mail.utoronto.ca

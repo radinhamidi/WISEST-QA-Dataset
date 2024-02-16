@@ -1,0 +1,7 @@
+README.md
+setup.py
+wisest_data_fetcher.egg-info/PKG-INFO
+wisest_data_fetcher.egg-info/SOURCES.txt
+wisest_data_fetcher.egg-info/dependency_links.txt
+wisest_data_fetcher.egg-info/requires.txt
+wisest_data_fetcher.egg-info/top_level.txt
