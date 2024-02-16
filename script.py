@@ -1,14 +1,14 @@
-from wisest_data_fetcher.fetcher import fetch_json
+import wisest_data_fetcher.fetcher as fetcher
 import json
 
 qa_dataset_url = 'https://wisest-data.ls3.rnet.torontomu.ca/qa_data/'
-qa_dataset = fetch_json(qa_dataset_url)
+qa_dataset = fetcher.fetch_json(qa_dataset_url)
 
 dpr_dataset_url = 'https://wisest-data.ls3.rnet.torontomu.ca/dpr_data/'
-dpr_dataset = fetch_json(dpr_dataset_url)
+dpr_dataset = fetcher.fetch_json(dpr_dataset_url)
 
 idx_dataset_url = 'https://wisest-data.ls3.rnet.torontomu.ca/index/'
-idx_dataset = fetch_json(idx_dataset_url)
+idx_dataset = fetcher.fetch_json(idx_dataset_url)
 
 # Save the QA dataset to a file
 with open('WQA_QA.json', 'w') as f:
