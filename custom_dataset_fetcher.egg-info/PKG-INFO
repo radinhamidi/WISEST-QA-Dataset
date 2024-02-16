@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: custom-dataset-fetcher
+Version: 0.1
+Summary: A package for fetching custom datasets from the internet
+Home-page: https://github.com/radinhamidi/WISEST-QA-Dataset
+Author: Kevin Sun
+Author-email: kevinuoft.sun@mail.utoronto.ca
+License: MIT

@@ -1,0 +1,7 @@
+README.md
+setup.py
+custom_dataset_fetcher.egg-info/PKG-INFO
+custom_dataset_fetcher.egg-info/SOURCES.txt
+custom_dataset_fetcher.egg-info/dependency_links.txt
+custom_dataset_fetcher.egg-info/requires.txt
+custom_dataset_fetcher.egg-info/top_level.txt
