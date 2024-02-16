@@ -1,4 +1,4 @@
-from custom_dataset_fetcher.fetcher import fetch_json
+from wisest_data_fetcher.fetcher import fetch_json
 import json
 
 qa_dataset_url = 'https://wisest-data.ls3.rnet.torontomu.ca/qa_data/'
