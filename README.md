@@ -1,8 +1,9 @@
 # WISEST-QA-Dataset
 
 ## Install the fetcher
+```
 pip install wisest-data-fetcher==0.1
-
+```
 ## Usage
 ```
 import wisest_data_fetcher.fetcher as fetcher
